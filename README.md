@@ -1,2 +1,5 @@
 # load-balancer-exercise
-bottleneck
+
+```
+docker-compose up --build
+```
